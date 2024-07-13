@@ -20,4 +20,4 @@ jobs:
                   -H "SPUR_GITHUB_KEY: U2FsdGVkX19MejnFLTZjtmMVAwfPJIFnTCYkcq7X7VNarHR+BcIWN8q0ER/NfBzb" \
                   "https://spurserverwebappmulticore.azurewebsites.net/api/integrations/github/webhook?clientId=24&applicationId=25"
 
-# 🎈 Happy testing with Spur! 🎈
+# 🎈 Happy testing with Spur!! 🎈
