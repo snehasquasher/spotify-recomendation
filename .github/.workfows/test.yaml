@@ -4,7 +4,7 @@ name: Trigger Spur Webhook on Push 🔔
 on:
     push:
         branches:
-            - sneha/github/toggle # 🌿 You can change this to your desired branch
+            -  main # 🌿 You can change this to your desired branch
 
 jobs:
     trigger_webhook:
